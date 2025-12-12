@@ -1,7 +1,7 @@
 # Hi 👋 I'm David Ejindu
 
 ## 💫 About Me
-I am a second-year Computer Engineering student at the **University of Pittsburgh**, passionate about backend development, cloud technologies, and building robust, scalable applications. I enjoy working across the stack and integrating AI into real-world systems.
+I am a second-year Computer Science student at the **University of Pittsburgh**, passionate about backend development, cloud technologies, and building robust, scalable applications. I enjoy working across the stack and integrating AI into real-world systems.
 
 ---
 
