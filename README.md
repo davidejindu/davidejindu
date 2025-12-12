@@ -8,7 +8,6 @@ I am a second-year Computer Science student at the **University of Pittsburgh**,
 ## 🚀 What I'm Up To
 - 🤖 Exploring **backend development with cloud technologies**
 - 💻 Building **full-stack, AI-integrated applications**
-- ☁️ Designing **scalable and production-ready systems**
 
 ---
 
