@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 What I'm Working On
-- Backend & cloud-based systems  
+- Backend & cloud-based systems ☁️
 - Full-stack, AI-powered applications  
 
 ---
