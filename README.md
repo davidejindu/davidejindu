@@ -5,12 +5,6 @@
 
 ---
 
-## 🚀 What I'm Working On
-- Backend & cloud-based systems ☁️
-- Full-stack, AI-powered applications 💻⚙️
-
----
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Ejindu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ejindu/)
 
