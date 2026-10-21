@@ -1,7 +1,7 @@
 # Hi 👋 I'm David Ejindu
 
 🎓 Third-year Computer Science student at the **University of Pittsburgh**  
-💡 Interested in **backend development and cloud technologies**
+💡 Interested in **full-stack, backend and AI**
 
 ---
 
